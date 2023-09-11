@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0bc7ec55-20bb-40f3-bf89-a499704dcb07" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../CS5004 Syllabus - Section 8.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../CS5004 Syllabus - Section 8.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/exercise/src/course2/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/exercise/src/course2/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/exercise/src/course2/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/exercise/src/course2/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/exercise/test/course2/BookTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/exercise/test/course2/BookTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/exercise/test/course2/PersonTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/exercise/test/course2/PersonTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/module_01/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/module_01/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/module_01/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/module_01/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/module_01/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/module_01/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/module_01/OOperson.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/module_01/OOperson.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/module_01/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/module_01/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/module_01/PersonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/module_01/PersonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/module_01/person.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/module_01/person.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/module_02/Book-1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/module_02/Book-1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/module_02/BookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/module_02/BookTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/module_02/Person-1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/module_02/Person-1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/module_02/PersonTest-1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/module_02/PersonTest-1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/module_03/AbstractShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/module_03/AbstractShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/module_03/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/module_03/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/module_03/Point2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/module_03/Point2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/module_03/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/module_03/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/module_03/Screen Shot 2023-06-05 at 1.30.32 PM.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/module_03/Screen Shot 2023-06-05 at 1.30.32 PM.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/module_03/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/module_03/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/module_03/ShapeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/module_03/ShapeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/module_03/TypeOfBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/module_03/TypeOfBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/module_04/Book-3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/module_04/BookListADT.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/module_04/BookListADT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/module_04/BookListADTElementNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/module_04/BookListADTElementNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/module_04/BookListADTEmptyNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/module_04/BookListADTEmptyNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/module_04/BookListADTImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/module_04/BookListADTImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/module_04/BookListADTNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/module_04/BookListADTNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/module_04/BookListADTTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/module_04/BookListADTTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/module_04/ElementNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/module_04/ElementNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/module_04/EmptyNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/module_04/EmptyNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/module_04/GenericElementNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/module_04/GenericElementNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/module_04/GenericEmptyNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/module_04/GenericEmptyNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/module_04/GenericListADTNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/module_04/GenericListADTNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/module_04/IListOfBooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/module_04/IListOfBooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/module_04/IListOfBooksTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/module_04/IListOfBooksTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/module_04/ListADT.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/module_04/ListADT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/module_04/ListADTImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/module_04/ListADTImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/module_04/ListADTTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/module_04/ListADTTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/module_04/ListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/module_04/ListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/module_04/Screenshot 2023-06-06 at 10.02.21 PM.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/module_04/Screenshot 2023-06-06 at 10.02.21 PM.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/module_04/StringListUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/module_04/StringListUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/module_10 view/MVC/4_GeneralCommandCallbacks/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/module_10 view/MVC/4_GeneralCommandCallbacks/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/module_10 view/MVC/4_GeneralCommandCallbacks/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/module_10 view/MVC/4_GeneralCommandCallbacks/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/UML.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/UML.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab/Lab1/res/Blank diagram.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab/Lab1/res/Blank diagram.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab/Lab1/src/first/MenuItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab/Lab1/src/first/MenuItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab/Lab1/src/first/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab/Lab1/src/first/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab/Lab1/src/first/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab/Lab1/src/first/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab/Lab1/test/first/MenuItemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab/Lab1/test/first/MenuItemTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab/Lab1/test/first/MovieTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab/Lab1/test/first/MovieTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab/Lab1/test/first/PersonTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab/Lab1/test/first/PersonTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab/hangman_project/src/hangman/HangmanImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab/hangman_project/src/hangman/HangmanImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab/lab02/src/temperature/AbstractTemperature.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab/lab02/src/temperature/AbstractTemperature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab/lab02/src/temperature/CelsiusTemperature.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab/lab02/src/temperature/CelsiusTemperature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab/lab02/src/temperature/FahrenheitTemperature.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab/lab02/src/temperature/FahrenheitTemperature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab/lab02/src/temperature/Temperature.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab/lab02/src/temperature/Temperature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab/lab02/test/temperature/TemperatureTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab/lab02/test/temperature/TemperatureTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab/lab04/src/tictactoe/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab/lab04/src/tictactoe/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab/lab04/src/tictactoe/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab/lab04/src/tictactoe/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab/lab04/src/tictactoe/TicTacToeModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab/lab04/src/tictactoe/TicTacToeModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab/lab04/test/tictactoe/TicTacToeModelTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab/lab04/test/tictactoe/TicTacToeModelTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab/right_submission/out/production/right_submission/lab0/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab/right_submission/out/production/right_submission/lab0/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab/right_submission/out/test/right_submission/lab0/PersonTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab/right_submission/out/test/right_submission/lab0/PersonTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab/right_submission/src/lab0/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab/right_submission/src/lab0/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab/right_submission/test/lab0/PersonTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab/right_submission/test/lab0/PersonTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2T4UWMi4dGXdbqKEbANFc1TQSJt" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0bc7ec55-20bb-40f3-bf89-a499704dcb07" name="Changes" comment="" />
+      <created>1690301877029</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690301877029</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/u10/Main.java</url>
+          <line>127</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/u10/TestPlayer.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/u10/PlayerImpl.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/u10/Main.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/u10/Main.java</url>
+          <line>112</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/u10/Main.java</url>
+          <line>113</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/u10/TeamImpl.java</url>
+          <line>203</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/u10/TeamImpl.java</url>
+          <line>177</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/u10/TeamImpl.java</url>
+          <line>131</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/u10/TeamImpl.java</url>
+          <line>95</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/u10/TestPlayer.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/u10/TestTeam.java</url>
+          <line>143</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/u10/TestTeam.java</url>
+          <line>146</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/test/u10/TestTeam.java</url>
+          <line>52</line>
+          <properties class="u10.TestTeam" method="testAddPlayer">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/test/u10/TestPlayer.java</url>
+          <line>67</line>
+          <properties class="u10.TestPlayer" method="testPlayerValid">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/final_soccer$TestPlayer.ic" NAME="TestPlayer Coverage Results" MODIFIED="1691611695792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>u10.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/final_soccer$TestTeam.ic" NAME="TestTeam Coverage Results" MODIFIED="1691611714138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>u10.*</FILTER>
+    </SUITE>
+  </component>
+</project>

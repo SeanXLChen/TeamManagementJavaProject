@@ -1,0 +1,213 @@
+Welcome to youth soccer team manage system:
+
+Enter 'a' to add player | 'g' to start generating team | 'r' to start over |'q' to exit the program
+a
+Enter information for player 1
+First name: Sean
+Last name: Chen
+Year of birth: 2013
+Month of birth: 1
+Day of birth: 1
+Preferred position (1 for GOALIE, 2 for DEFENDER, 3 for MIDFIELDER, 4 for FORWARD): 1
+Skill level (1-5): 5
+Successfully add player 1
+
+Enter 'a' to add player | 'g' to start generating team | 'r' to start over |'q' to exit the program
+a
+Enter information for player 2
+First name: Benjamin
+Last name: Bob
+Year of birth: 1997
+Month of birth: 2
+Day of birth: 14
+Preferred position (1 for GOALIE, 2 for DEFENDER, 3 for MIDFIELDER, 4 for FORWARD): 3
+Skill level (1-5): 3
+Error adding player: Player need to be under age limit to be in team.
+
+Enter 'a' to add player | 'g' to start generating team | 'r' to start over |'q' to exit the program
+a
+Enter information for player 2
+First name: B
+Last name: Liu
+Year of birth: 2023
+Month of birth: 1
+Day of birth: 1
+Preferred position (1 for GOALIE, 2 for DEFENDER, 3 for MIDFIELDER, 4 for FORWARD): 4
+Skill level (1-5): 3
+Successfully add player 2
+
+Enter 'a' to add player | 'g' to start generating team | 'r' to start over |'q' to exit the program
+g
+You must enter at least 10 players. Please continue.
+
+Enter 'a' to add player | 'g' to start generating team | 'r' to start over |'q' to exit the program
+a
+Enter information for player 3
+First name: J
+Last name: Smith
+Year of birth: 2017
+Month of birth: 10
+Day of birth: 11
+Preferred position (1 for GOALIE, 2 for DEFENDER, 3 for MIDFIELDER, 4 for FORWARD): 2
+Skill level (1-5): 5
+Successfully add player 3
+
+Enter 'a' to add player | 'g' to start generating team | 'r' to start over |'q' to exit the program
+a
+Enter information for player 4
+First name: Dodd
+Last name: Frank
+Year of birth: 2125
+Month of birth: 0
+Day of birth: 0
+Preferred position (1 for GOALIE, 2 for DEFENDER, 3 for MIDFIELDER, 4 for FORWARD): 1
+Skill level (1-5): 3
+Error adding player: Year of birth must be between 1900 and 2023.
+
+Enter 'a' to add player | 'g' to start generating team | 'r' to start over |'q' to exit the program
+a
+Enter information for player 4
+First name: Messi
+Last name: Leonardo
+Year of birth: 1987
+Month of birth: 3
+Day of birth: 2
+Preferred position (1 for GOALIE, 2 for DEFENDER, 3 for MIDFIELDER, 4 for FORWARD): 4
+Skill level (1-5): 10
+Error adding player: Skill level must be between 1 and 5.
+
+Enter 'a' to add player | 'g' to start generating team | 'r' to start over |'q' to exit the program
+a
+Enter information for player 4
+First name: Michael
+Last name: Colion
+Year of birth: 2021
+Month of birth: 01
+Day of birth: 30
+Preferred position (1 for GOALIE, 2 for DEFENDER, 3 for MIDFIELDER, 4 for FORWARD): 2
+Skill level (1-5): 3
+Successfully add player 4
+
+Enter 'a' to add player | 'g' to start generating team | 'r' to start over |'q' to exit the program
+a
+Enter information for player 5
+First name: Abert
+Last name: Hugh
+Year of birth: 2022
+Month of birth: 8
+Day of birth: 29
+Preferred position (1 for GOALIE, 2 for DEFENDER, 3 for MIDFIELDER, 4 for FORWARD): 3
+Skill level (1-5): 4
+Successfully add player 5
+
+Enter 'a' to add player | 'g' to start generating team | 'r' to start over |'q' to exit the program
+a
+Enter information for player 6
+First name: Hillary
+Last name: Ken
+Year of birth: 2015
+Month of birth: 12
+Day of birth: 30
+Preferred position (1 for GOALIE, 2 for DEFENDER, 3 for MIDFIELDER, 4 for FORWARD): 4
+Skill level (1-5): 1
+Successfully add player 6
+
+Enter 'a' to add player | 'g' to start generating team | 'r' to start over |'q' to exit the program
+a
+Enter information for player 7
+First name: Joji
+Last name: Kubit
+Year of birth: 2016
+Month of birth: 3
+Day of birth: 15
+Preferred position (1 for GOALIE, 2 for DEFENDER, 3 for MIDFIELDER, 4 for FORWARD): 3
+Skill level (1-5): 4
+Successfully add player 7
+
+Enter 'a' to add player | 'g' to start generating team | 'r' to start over |'q' to exit the program
+a
+Enter information for player 8
+First name: George
+Last name: Aram
+Year of birth: 2018
+Month of birth: 4
+Day of birth: 4
+Preferred position (1 for GOALIE, 2 for DEFENDER, 3 for MIDFIELDER, 4 for FORWARD): 3
+Skill level (1-5): 2
+Successfully add player 8
+
+Enter 'a' to add player | 'g' to start generating team | 'r' to start over |'q' to exit the program
+a
+Enter information for player 9
+First name: Logan
+Last name: Schmitt
+Year of birth: 2021
+Month of birth: 02
+Day of birth: 03
+Preferred position (1 for GOALIE, 2 for DEFENDER, 3 for MIDFIELDER, 4 for FORWARD): 1
+Skill level (1-5): 3
+Successfully add player 9
+
+Enter 'a' to add player | 'g' to start generating team | 'r' to start over |'q' to exit the program
+a
+Enter information for player 10
+First name: 1
+That's not a valid name! Try again.
+Kobe
+Last name: Briant
+Year of birth: 2000
+Month of birth: 13
+Day of birth: 1
+Preferred position (1 for GOALIE, 2 for DEFENDER, 3 for MIDFIELDER, 4 for FORWARD): 1
+Skill level (1-5): 1
+Error adding player: Month of birth must be between 1 and 12.
+
+Enter 'a' to add player | 'g' to start generating team | 'r' to start over |'q' to exit the program
+a
+Enter information for player 10
+First name: Ronardo
+Last name: Cristiano
+Year of birth: 2023
+Month of birth: 1
+Day of birth: 5
+Preferred position (1 for GOALIE, 2 for DEFENDER, 3 for MIDFIELDER, 4 for FORWARD): 5
+Skill level (1-5): 3
+Error adding player: Preferred position must be one of the 4 positions.
+
+Enter 'a' to add player | 'g' to start generating team | 'r' to start over |'q' to exit the program
+a
+Enter information for player 10
+First name: CJ
+Last name: Don
+Year of birth: 2020
+Month of birth: 10
+Day of birth: 25
+Preferred position (1 for GOALIE, 2 for DEFENDER, 3 for MIDFIELDER, 4 for FORWARD): 3
+Skill level (1-5): 2
+Successfully add player 10
+
+Enter 'a' to add player | 'g' to start generating team | 'r' to start over |'q' to exit the program
+g
+All players:
+George  Aram, 2018-4-4, Jersey Number: 6 Position: MIDFIELDERS
+Sean Chen, 2013-1-1, Jersey Number: 14 Position: GOALIE
+Michael Colion, 2021-1-30, Jersey Number: 5 Position: DEFENDERS
+CJ Don, 2020-10-25, Jersey Number: 15 Position: BENCH
+Abert Hugh, 2022-8-29, Jersey Number: 18 Position: MIDFIELDERS
+Hillary Ken, 2015-12-30, Jersey Number: 19 Position: BENCH
+Joji Kubit, 2016-3-15, Jersey Number: 10 Position: MIDFIELDERS
+B Liu, 2023-1-1, Jersey Number: 1 Position: FORWARD
+Logan Schmitt, 2021-2-3, Jersey Number: 13 Position: BENCH
+J Smith, 2017-10-11, Jersey Number: 11 Position: DEFENDERS
+
+Starting lineup:
+Sean Chen, 2013-1-1, Jersey Number: 14 Position: GOALIE
+Michael Colion, 2021-1-30, Jersey Number: 5 Position: DEFENDERS
+J Smith, 2017-10-11, Jersey Number: 11 Position: DEFENDERS
+George  Aram, 2018-4-4, Jersey Number: 6 Position: MIDFIELDERS
+Abert Hugh, 2022-8-29, Jersey Number: 18 Position: MIDFIELDERS
+Joji Kubit, 2016-3-15, Jersey Number: 10 Position: MIDFIELDERS
+B Liu, 2023-1-1, Jersey Number: 1 Position: FORWARD
+
+
+Process finished with exit code 0

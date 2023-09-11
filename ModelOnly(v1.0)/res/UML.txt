@@ -1,0 +1,49 @@
+<<Interface>>
+Team
++ addPlayer(firstName: String, lastName: String, year: int, month: int, day: int, preferredPosition: Position, skillLevel: int): void
++ removePlayer(player: Player): void
++ getAllPlayersList(): String
++ getStartingLineupList(): String
+
+TeamImpl
+- players: List<Player>
+- assignedJerseyNumbers: Set<Integer>
+- teamSize: int
++ generateStartingLineup(): void
++ getSize(): int
+- sortPlayersBySkill(): void
+- assignPositions(): void
+- assignJerseyNumbers(): void
+- validateTeam(): boolean
+- assignPlayerToPosition(player: Player, position: Position): void
+- isTeamSizeValid(SIZE: int): boolean
+- areAllPlayersUnderTen(): boolean
+- areJerseyNumbersValid(): boolean
+- isStartingLineupValid(): boolean
+
+<<Interface>>
+Player
++ getFirstName(): String
++ getLastName(): String
++ getDOB(): String
++ getPreferredPosition(): Position
++ getSkillLevel(): int
++ getJerseyNumber(): int
++ getAssignedPosition(): Position
+
+PlayerImpl
+- firstName: String
+- lastName: String
+- yearOfDOB: int
+- monthOfDOB: int
+- dayOfDOB: int
+- preferredPosition: Position
+- assignedPosition: Position
+- skillLevel: int
+- jerseyNumber: int
+- setAssignedPosition(assignedPosition: Position): void
+- setJerseyNumber(jerseyNumber: int): void
+- getYearOfDOB(): int
+- getMonthOfDOB(): int
+- getDayOfDOB(): int
+- isUnderTenYearsOld(): boolean
